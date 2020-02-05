@@ -7,4 +7,4 @@ You will need to set up a reddit application, like here: https://redditclient.re
 
 $reddit (subreddit) will fetch a random image from the subreddit mentioned. That's literally it, why did i make this. Please dont bully my crap code I have no idea what I'm doing.
 
-
+Maybe one day I'll add some more, but probably not. I'm not very creative.
